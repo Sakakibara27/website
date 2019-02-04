@@ -11,10 +11,10 @@ secondOpen = "15:30" # 1日目夜の部の開場時間
 thirdStart = "13:00" # 2日目昼の部の開演時間
 thirdOpen = "12:30" # 2日目昼の部の開場時間
 
-showtime = 40
+showtime = 60
 place = "京都市東山青少年活動センター"
-registerDeadline = "5月3日 (金) 21時" # 前日の夜でいい？ 
-registerForm = "https://ticket.corich.jp/apply/97372" # 何も考えず載せてみる
+registerDeadline = "各公演前日23時59分" # 公演が2日に渡るので締切も分かれます
+registerForm = "https://www.quartet-online.net/ticket/jdl2019"
 
 [[casts]]
 name = "白井　夢月"
@@ -35,6 +35,10 @@ tool = "クリスタル"
 [[casts]]
 name = "山下　湧志朗"
 tool = "クラブ"
+
+[[casts]]
+name = "今谷　実希"
+tool = "キャスト"
 
 [[staffs]]
 name = "小松原　裕"
